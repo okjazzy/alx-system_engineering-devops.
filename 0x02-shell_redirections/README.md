@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Shell Redirections"
+Shell Redirections
